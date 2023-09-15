@@ -1,0 +1,499 @@
+2023-07-10 14:24:46,514 - Address(host='127.0.0.1', port=60760) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0010008811950683594
+2023-07-10 14:24:46,893 - Address(host='127.0.0.1', port=60760) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.008993864059448242
+2023-07-10 15:47:07,601 - Address(host='127.0.0.1', port=61566) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-10 15:47:07,788 - Address(host='127.0.0.1', port=61566) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.017987489700317383
+2023-07-10 15:57:52,332 - Address(host='127.0.0.1', port=61811) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0020012855529785156
+2023-07-10 15:57:52,505 - Address(host='127.0.0.1', port=61811) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.016989707946777344
+2023-07-10 15:58:35,404 - Address(host='127.0.0.1', port=61839) -  method: POST - path: / - status_code: 422 - process_time: 0.003997087478637695
+2023-07-10 15:58:59,850 - Address(host='127.0.0.1', port=61852) -  method: POST - path: / - status_code: 422 - process_time: 0.0019998550415039062
+2023-07-10 16:01:15,780 - Address(host='127.0.0.1', port=61903) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-10 16:01:16,091 - Address(host='127.0.0.1', port=61903) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.015990495681762695
+2023-07-10 17:01:08,928 - Address(host='127.0.0.1', port=62689) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.016002416610717773
+2023-07-10 17:03:14,849 - Address(host='127.0.0.1', port=63137) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0010025501251220703
+2023-07-10 17:03:15,072 - Address(host='127.0.0.1', port=63137) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.019988536834716797
+2023-07-10 17:03:25,073 - Address(host='127.0.0.1', port=63152) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009989738464355469
+2023-07-10 17:03:25,278 - Address(host='127.0.0.1', port=63152) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.01399087905883789
+2023-07-11 10:17:26,111 - Address(host='127.0.0.1', port=60194) -  method: GET - path: /docs - status_code: 200 - process_time: 0.00099945068359375
+2023-07-11 10:17:26,358 - Address(host='127.0.0.1', port=60194) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.014990568161010742
+2023-07-11 10:17:28,553 - Address(host='127.0.0.1', port=60194) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009996891021728516
+2023-07-11 10:17:28,686 - Address(host='127.0.0.1', port=60194) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.0
+2023-07-11 10:18:14,897 - Address(host='127.0.0.1', port=60222) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009982585906982422
+2023-07-11 10:18:15,104 - Address(host='127.0.0.1', port=60222) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.01598834991455078
+2023-07-11 10:48:17,175 - Address(host='127.0.0.1', port=60772) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009999275207519531
+2023-07-11 10:48:17,607 - Address(host='127.0.0.1', port=60772) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.01798844337463379
+2023-07-11 10:48:37,749 - Address(host='127.0.0.1', port=60773) -  method: POST - path: /events - status_code: 404 - process_time: 0.0069963932037353516
+2023-07-11 10:52:04,368 - Address(host='127.0.0.1', port=60874) -  method: POST - path: /events - status_code: 404 - process_time: 0.0219876766204834
+2023-07-11 10:55:18,478 - Address(host='127.0.0.1', port=60913) -  method: POST - path: /events - status_code: 404 - process_time: 0.02398514747619629
+2023-07-11 10:56:11,502 - Address(host='127.0.0.1', port=60932) -  method: POST - path: /events - status_code: 404 - process_time: 0.03498125076293945
+2023-07-11 10:56:32,351 - Address(host='127.0.0.1', port=60949) -  method: POST - path: /events - status_code: 404 - process_time: 0.0659639835357666
+2023-07-11 11:00:09,466 - Address(host='127.0.0.1', port=60982) -  method: POST - path: /events - status_code: 404 - process_time: 0.007993698120117188
+2023-07-11 11:02:34,224 - Address(host='127.0.0.1', port=61020) -  method: POST - path: /events - status_code: 404 - process_time: 0.0049974918365478516
+2023-07-11 11:06:05,698 - Address(host='127.0.0.1', port=61073) -  method: POST - path: /events - status_code: 404 - process_time: 0.005996227264404297
+2023-07-11 11:08:49,373 - Address(host='127.0.0.1', port=61120) -  method: POST - path: /events - status_code: 404 - process_time: 0.08095264434814453
+2023-07-11 11:09:48,887 - Address(host='127.0.0.1', port=61138) -  method: POST - path: /events - status_code: 200 - process_time: 0.00799560546875
+2023-07-11 11:13:04,507 - Address(host='127.0.0.1', port=61172) -  method: POST - path: /events - status_code: 404 - process_time: 0.011995077133178711
+2023-07-11 11:18:29,389 - Address(host='127.0.0.1', port=61240) -  method: POST - path: /events - status_code: 404 - process_time: 0.05496788024902344
+2023-07-11 11:23:59,099 - Address(host='127.0.0.1', port=61324) -  method: POST - path: /events - status_code: 404 - process_time: 0.0039980411529541016
+2023-07-11 11:24:32,816 - Address(host='127.0.0.1', port=61343) -  method: POST - path: /events - status_code: 200 - process_time: 0.007996082305908203
+2023-07-11 11:25:03,116 - Address(host='127.0.0.1', port=61354) -  method: POST - path: /events - status_code: 200 - process_time: 0.007995128631591797
+2023-07-11 11:26:51,824 - Address(host='127.0.0.1', port=61373) -  method: POST - path: /events - status_code: 200 - process_time: 0.02098870277404785
+2023-07-11 11:34:19,195 - Address(host='127.0.0.1', port=61456) -  method: POST - path: /events - status_code: 200 - process_time: 0.0319819450378418
+2023-07-11 11:36:00,437 - Address(host='127.0.0.1', port=61485) -  method: POST - path: /events - status_code: 200 - process_time: 0.05396866798400879
+2023-07-11 13:44:14,546 - Address(host='127.0.0.1', port=61736) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009999275207519531
+2023-07-11 13:44:14,837 - Address(host='127.0.0.1', port=61736) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.017987966537475586
+2023-07-11 13:47:10,021 - Address(host='127.0.0.1', port=61771) -  method: GET - path: /users - status_code: 200 - process_time: 0.009995222091674805
+2023-07-11 13:49:50,708 - Address(host='127.0.0.1', port=61852) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-11 13:49:50,986 - Address(host='127.0.0.1', port=61852) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.0179901123046875
+2023-07-11 13:50:02,312 - Address(host='127.0.0.1', port=61853) -  method: GET - path: /users - status_code: 200 - process_time: 0.007996320724487305
+2023-07-11 13:51:04,288 - Address(host='127.0.0.1', port=61868) -  method: GET - path: /users - status_code: 200 - process_time: 0.007993936538696289
+2023-07-11 13:59:00,314 - Address(host='127.0.0.1', port=61932) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-11 13:59:00,630 - Address(host='127.0.0.1', port=61932) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.05196833610534668
+2023-07-11 14:11:13,847 - Address(host='127.0.0.1', port=62068) -  method: GET - path: /users - status_code: 200 - process_time: 0.0029973983764648438
+2023-07-11 14:24:15,123 - Address(host='127.0.0.1', port=62173) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009989738464355469
+2023-07-11 14:24:15,408 - Address(host='127.0.0.1', port=62173) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.01898789405822754
+2023-07-11 14:24:54,018 - Address(host='127.0.0.1', port=62174) -  method: POST - path: /users/events - status_code: 200 - process_time: 0.010994911193847656
+2023-07-11 14:25:08,043 - Address(host='127.0.0.1', port=62186) -  method: POST - path: /users/events - status_code: 200 - process_time: 0.003998517990112305
+2023-07-11 14:25:19,959 - Address(host='127.0.0.1', port=62196) -  method: POST - path: /users/events - status_code: 200 - process_time: 0.0069942474365234375
+2023-07-11 14:33:10,571 - Address(host='127.0.0.1', port=62251) -  method: POST - path: /users - status_code: 200 - process_time: 0.007993221282958984
+2023-07-11 14:34:27,623 - Address(host='127.0.0.1', port=62281) -  method: POST - path: /users/events - status_code: 200 - process_time: 0.01898789405822754
+2023-07-11 14:35:03,272 - Address(host='127.0.0.1', port=62296) -  method: POST - path: /users/events - status_code: 200 - process_time: 0.026982545852661133
+2023-07-12 09:09:20,233 - Address(host='127.0.0.1', port=57941) -  method: GET - path: / - status_code: 404 - process_time: 0.0009894371032714844
+2023-07-12 09:09:20,840 - Address(host='127.0.0.1', port=57941) -  method: GET - path: / - status_code: 404 - process_time: 0.0009996891021728516
+2023-07-12 09:09:21,121 - Address(host='127.0.0.1', port=57941) -  method: GET - path: /favicon.ico - status_code: 404 - process_time: 0.0010013580322265625
+2023-07-12 09:09:25,998 - Address(host='127.0.0.1', port=57941) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009992122650146484
+2023-07-12 09:09:26,751 - Address(host='127.0.0.1', port=57944) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.05296945571899414
+2023-07-12 09:09:35,506 - Address(host='127.0.0.1', port=57946) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-12 09:09:35,655 - Address(host='127.0.0.1', port=57946) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.000997304916381836
+2023-07-12 09:11:17,093 - Address(host='127.0.0.1', port=57984) -  method: POST - path: /users - status_code: 200 - process_time: 0.02698373794555664
+2023-07-12 09:15:29,389 - Address(host='127.0.0.1', port=58060) -  method: POST - path: /users - status_code: 200 - process_time: 0.07695603370666504
+2023-07-12 09:16:35,601 - Address(host='127.0.0.1', port=58079) -  method: POST - path: /users - status_code: 200 - process_time: 0.08095192909240723
+2023-07-12 09:20:27,836 - Address(host='127.0.0.1', port=58172) -  method: POST - path: /users - status_code: 200 - process_time: 0.08894872665405273
+2023-07-12 09:21:40,190 - Address(host='127.0.0.1', port=58193) -  method: POST - path: /users - status_code: 404 - process_time: 0.059964656829833984
+2023-07-12 09:21:56,203 - Address(host='127.0.0.1', port=58200) -  method: POST - path: /users - status_code: 200 - process_time: 0.05498766899108887
+2023-07-12 09:29:53,673 - Address(host='127.0.0.1', port=58305) -  method: POST - path: /users - status_code: 404 - process_time: 0.00700688362121582
+2023-07-12 17:09:00,168 - Address(host='127.0.0.1', port=62138) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-12 17:09:01,169 - Address(host='127.0.0.1', port=62138) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-12 17:09:05,149 - Address(host='127.0.0.1', port=62138) -  method: GET - path: /docs - status_code: 200 - process_time: 0.00099945068359375
+2023-07-12 17:09:05,410 - Address(host='127.0.0.1', port=62138) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.009992837905883789
+2023-07-13 08:14:04,663 - Address(host='127.0.0.1', port=64509) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009989738464355469
+2023-07-13 08:14:04,857 - Address(host='127.0.0.1', port=64509) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.02498173713684082
+2023-07-13 08:14:39,985 - Address(host='127.0.0.1', port=64508) -  method: POST - path: /users - status_code: 200 - process_time: 0.014988183975219727
+2023-07-13 22:50:59,980 - Started server process [5808]
+2023-07-13 22:50:59,983 - Waiting for application startup.
+2023-07-13 22:50:59,996 - Application startup complete.
+2023-07-13 22:51:00,021 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-13 22:51:26,092 - Address(host='127.0.0.1', port=56129) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-13 22:51:26,723 - Address(host='127.0.0.1', port=56135) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.015993833541870117
+2023-07-13 22:51:58,911 - Address(host='127.0.0.1', port=56148) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-13 22:51:59,099 - Address(host='127.0.0.1', port=56148) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.0010204315185546875
+2023-07-13 22:52:00,362 - Address(host='127.0.0.1', port=56148) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009946823120117188
+2023-07-13 22:52:00,471 - Address(host='127.0.0.1', port=56148) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.0009930133819580078
+2023-07-13 22:52:00,915 - Address(host='127.0.0.1', port=56148) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-13 22:52:01,022 - Address(host='127.0.0.1', port=56148) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.001001596450805664
+2023-07-13 22:52:01,124 - Address(host='127.0.0.1', port=56148) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009996891021728516
+2023-07-13 22:52:01,240 - Address(host='127.0.0.1', port=56148) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.0010037422180175781
+2023-07-13 22:53:30,512 - Address(host='127.0.0.1', port=56234) -  method: GET - path: / - status_code: 404 - process_time: 0.0010249614715576172
+2023-07-13 22:53:30,661 - Address(host='127.0.0.1', port=56234) -  method: GET - path: /favicon.ico - status_code: 404 - process_time: 0.0
+2023-07-13 22:53:38,116 - Address(host='127.0.0.1', port=56240) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-13 22:53:39,031 - Address(host='127.0.0.1', port=56240) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.002000570297241211
+2023-07-13 23:00:17,290 - Shutting down
+2023-07-13 23:00:17,394 - Waiting for application shutdown.
+2023-07-13 23:00:17,395 - Application shutdown complete.
+2023-07-13 23:00:17,395 - Finished server process [5808]
+2023-07-13 23:01:44,301 - Started server process [6356]
+2023-07-13 23:01:44,303 - Waiting for application startup.
+2023-07-13 23:01:44,304 - Application startup complete.
+2023-07-13 23:01:44,305 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-13 23:14:12,764 - Shutting down
+2023-07-13 23:14:12,869 - Waiting for application shutdown.
+2023-07-13 23:14:12,871 - Application shutdown complete.
+2023-07-13 23:14:12,872 - Finished server process [6356]
+2023-07-13 23:46:22,165 - Started server process [16332]
+2023-07-13 23:46:22,167 - Waiting for application startup.
+2023-07-13 23:46:22,169 - Application startup complete.
+2023-07-13 23:46:22,170 - [Errno 10049] error while attempting to bind on address ('10.182.0.2', 8000): the requested address is not valid in its context
+2023-07-13 23:46:22,172 - Waiting for application shutdown.
+2023-07-13 23:46:22,173 - Application shutdown complete.
+2023-07-14 00:29:44,710 - Started server process [12780]
+2023-07-14 00:29:44,712 - Waiting for application startup.
+2023-07-14 00:29:44,713 - Application startup complete.
+2023-07-14 00:29:44,715 - [Errno 10049] error while attempting to bind on address ('10.182.0.2', 8000): the requested address is not valid in its context
+2023-07-14 00:29:44,717 - Waiting for application shutdown.
+2023-07-14 00:29:44,718 - Application shutdown complete.
+2023-07-14 00:29:54,548 - Started server process [8884]
+2023-07-14 00:29:54,549 - Waiting for application startup.
+2023-07-14 00:29:54,551 - Application startup complete.
+2023-07-14 00:29:54,555 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-14 00:30:02,890 - Address(host='127.0.0.1', port=64263) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009999275207519531
+2023-07-14 00:30:03,267 - Address(host='127.0.0.1', port=64263) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.02299785614013672
+2023-07-14 00:36:35,799 - Shutting down
+2023-07-14 00:36:35,900 - Waiting for application shutdown.
+2023-07-14 00:36:35,902 - Application shutdown complete.
+2023-07-14 00:36:35,904 - Finished server process [8884]
+2023-07-14 01:09:20,746 - Started server process [7128]
+2023-07-14 01:09:20,748 - Waiting for application startup.
+2023-07-14 01:09:20,752 - Application startup complete.
+2023-07-14 01:09:20,756 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-14 01:10:04,635 - Address(host='127.0.0.1', port=49159) -  method: GET - path: / - status_code: 404 - process_time: 0.0010068416595458984
+2023-07-14 01:10:05,078 - Address(host='127.0.0.1', port=49159) -  method: GET - path: / - status_code: 404 - process_time: 0.0009989738464355469
+2023-07-14 01:10:05,233 - Address(host='127.0.0.1', port=49159) -  method: GET - path: /favicon.ico - status_code: 404 - process_time: 0.0
+2023-07-14 01:12:19,820 - Shutting down
+2023-07-14 01:12:19,921 - Waiting for application shutdown.
+2023-07-14 01:12:19,922 - Application shutdown complete.
+2023-07-14 01:12:19,922 - Finished server process [7128]
+2023-07-14 09:03:33,395 - Started server process [18272]
+2023-07-14 09:03:33,396 - Waiting for application startup.
+2023-07-14 09:03:33,397 - Application startup complete.
+2023-07-14 09:03:33,398 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-14 09:03:43,244 - Shutting down
+2023-07-14 09:03:43,347 - Waiting for application shutdown.
+2023-07-14 09:03:43,348 - Application shutdown complete.
+2023-07-14 09:03:43,348 - Finished server process [18272]
+2023-07-14 11:39:28,422 - Started server process [14948]
+2023-07-14 11:39:28,425 - Waiting for application startup.
+2023-07-14 11:39:28,427 - Application startup complete.
+2023-07-14 11:39:28,428 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-14 13:54:15,716 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-14 13:54:15,723 - Uvicorn running on http://127.0.0.1:22 (Press CTRL+C to quit)
+2023-07-14 13:54:15,723 - Started reloader process [7056] using statreload
+2023-07-14 13:54:16,919 - Started server process [84]
+2023-07-14 13:54:16,925 - Waiting for application startup.
+2023-07-14 13:54:16,930 - Application startup complete.
+2023-07-14 13:54:31,791 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-14 13:54:32,953 - Started server process [11224]
+2023-07-14 13:54:32,969 - Waiting for application startup.
+2023-07-14 13:54:32,970 - Application startup complete.
+2023-07-14 13:55:19,372 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-14 13:55:21,241 - Started server process [13572]
+2023-07-14 13:55:21,244 - Waiting for application startup.
+2023-07-14 13:55:21,245 - Application startup complete.
+2023-07-14 13:55:52,244 - Shutting down
+2023-07-14 13:55:52,346 - Waiting for application shutdown.
+2023-07-14 13:55:52,347 - Application shutdown complete.
+2023-07-14 13:55:52,347 - Finished server process [13572]
+2023-07-14 13:55:53,454 - Stopping reloader process [7056]
+2023-07-14 13:55:58,565 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-14 13:55:58,566 - Uvicorn running on http://127.0.0.1:22 (Press CTRL+C to quit)
+2023-07-14 13:55:58,567 - Started reloader process [13588] using statreload
+2023-07-14 13:55:59,805 - Started server process [4492]
+2023-07-14 13:55:59,806 - Waiting for application startup.
+2023-07-14 13:55:59,807 - Application startup complete.
+2023-07-14 13:56:20,884 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-14 13:56:21,856 - Started server process [10568]
+2023-07-14 13:56:21,860 - Waiting for application startup.
+2023-07-14 13:56:21,862 - Application startup complete.
+2023-07-14 13:56:40,807 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-14 13:56:42,184 - Started server process [8000]
+2023-07-14 13:56:42,190 - Waiting for application startup.
+2023-07-14 13:56:42,191 - Application startup complete.
+2023-07-14 13:56:59,328 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-14 13:57:00,733 - Started server process [5300]
+2023-07-14 13:57:00,734 - Waiting for application startup.
+2023-07-14 13:57:00,735 - Application startup complete.
+2023-07-14 13:57:32,618 - Shutting down
+2023-07-14 13:57:32,720 - Waiting for application shutdown.
+2023-07-14 13:57:32,720 - Application shutdown complete.
+2023-07-14 13:57:32,721 - Finished server process [5300]
+2023-07-14 13:57:33,392 - Stopping reloader process [13588]
+2023-07-14 13:57:51,945 - Started server process [4580]
+2023-07-14 13:57:51,947 - Waiting for application startup.
+2023-07-14 13:57:51,948 - Application startup complete.
+2023-07-14 13:57:51,949 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-14 13:58:03,896 - Address(host='127.0.0.1', port=50896) -  method: GET - path: / - status_code: 404 - process_time: 0.0010020732879638672
+2023-07-14 13:58:03,963 - Address(host='127.0.0.1', port=50896) -  method: GET - path: /favicon.ico - status_code: 404 - process_time: 0.0
+2023-07-14 13:58:16,360 - Shutting down
+2023-07-14 13:58:16,461 - Waiting for application shutdown.
+2023-07-14 13:58:16,462 - Application shutdown complete.
+2023-07-14 13:58:16,462 - Finished server process [4580]
+2023-07-14 15:58:31,224 - Started server process [14668]
+2023-07-14 15:58:31,227 - Waiting for application startup.
+2023-07-14 15:58:31,228 - Application startup complete.
+2023-07-14 15:58:31,230 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-14 15:58:43,721 - Address(host='127.0.0.1', port=53290) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-14 15:58:47,645 - Address(host='127.0.0.1', port=53290) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009989738464355469
+2023-07-14 15:58:48,341 - Address(host='127.0.0.1', port=53290) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.009018421173095703
+2023-07-14 16:00:50,028 - Shutting down
+2023-07-14 16:00:50,131 - Waiting for application shutdown.
+2023-07-14 16:00:50,132 - Application shutdown complete.
+2023-07-14 16:00:50,132 - Finished server process [14668]
+2023-07-15 15:31:44,542 - Started server process [12104]
+2023-07-15 15:31:44,543 - Waiting for application startup.
+2023-07-15 15:31:44,545 - Application startup complete.
+2023-07-15 15:33:22,962 - Started server process [14284]
+2023-07-15 15:33:22,962 - Waiting for application startup.
+2023-07-15 15:33:22,963 - Application startup complete.
+2023-07-15 15:33:39,629 - Started server process [5932]
+2023-07-15 15:33:39,646 - Waiting for application startup.
+2023-07-15 15:33:39,668 - Application startup complete.
+2023-07-15 15:42:59,836 - Started server process [14468]
+2023-07-15 15:42:59,847 - Waiting for application startup.
+2023-07-15 15:42:59,848 - Application startup complete.
+2023-07-15 15:43:00,246 - Started server process [11420]
+2023-07-15 15:43:00,258 - Waiting for application startup.
+2023-07-15 15:43:00,259 - Application startup complete.
+2023-07-15 15:43:01,493 - Started server process [10596]
+2023-07-15 15:43:01,519 - Waiting for application startup.
+2023-07-15 15:43:01,533 - Application startup complete.
+2023-07-15 15:43:17,551 - Started server process [14344]
+2023-07-15 15:43:17,558 - Waiting for application startup.
+2023-07-15 15:43:17,559 - Application startup complete.
+2023-07-15 15:43:18,375 - Started server process [8888]
+2023-07-15 15:43:18,407 - Waiting for application startup.
+2023-07-15 15:43:18,448 - Application startup complete.
+2023-07-15 15:43:19,413 - Started server process [12672]
+2023-07-15 15:43:19,414 - Waiting for application startup.
+2023-07-15 15:43:19,416 - Application startup complete.
+2023-07-15 15:43:32,538 - Started server process [12476]
+2023-07-15 15:43:32,548 - Waiting for application startup.
+2023-07-15 15:43:32,550 - Application startup complete.
+2023-07-15 15:43:33,018 - Started server process [9664]
+2023-07-15 15:43:33,021 - Waiting for application startup.
+2023-07-15 15:43:33,027 - Application startup complete.
+2023-07-15 15:43:33,363 - Started server process [13932]
+2023-07-15 15:43:33,364 - Waiting for application startup.
+2023-07-15 15:43:33,365 - Application startup complete.
+2023-07-15 15:43:42,426 - Started server process [15568]
+2023-07-15 15:43:42,428 - Waiting for application startup.
+2023-07-15 15:43:42,430 - Application startup complete.
+2023-07-15 15:43:43,180 - Started server process [7612]
+2023-07-15 15:43:43,191 - Waiting for application startup.
+2023-07-15 15:43:43,197 - Application startup complete.
+2023-07-15 15:43:43,277 - Started server process [11876]
+2023-07-15 15:43:43,279 - Waiting for application startup.
+2023-07-15 15:43:43,289 - Application startup complete.
+2023-07-15 15:45:41,834 - Started server process [3872]
+2023-07-15 15:45:41,845 - Waiting for application startup.
+2023-07-15 15:45:41,857 - Application startup complete.
+2023-07-15 15:45:41,866 - Started server process [13492]
+2023-07-15 15:45:41,881 - Waiting for application startup.
+2023-07-15 15:45:41,889 - Application startup complete.
+2023-07-15 15:45:42,264 - Started server process [8840]
+2023-07-15 15:45:42,268 - Waiting for application startup.
+2023-07-15 15:45:42,273 - Application startup complete.
+2023-07-15 15:45:54,875 - Started server process [16292]
+2023-07-15 15:45:54,882 - Waiting for application startup.
+2023-07-15 15:45:54,890 - Application startup complete.
+2023-07-15 15:45:54,915 - Started server process [3040]
+2023-07-15 15:45:54,936 - Waiting for application startup.
+2023-07-15 15:45:54,937 - Application startup complete.
+2023-07-15 15:45:55,512 - Started server process [1148]
+2023-07-15 15:45:55,514 - Waiting for application startup.
+2023-07-15 15:45:55,525 - Application startup complete.
+2023-07-15 15:46:21,529 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-15 15:46:21,532 - Uvicorn running on http://127.0.0.1:22 (Press CTRL+C to quit)
+2023-07-15 15:46:21,533 - Started reloader process [6264] using statreload
+2023-07-15 15:46:24,575 - Started server process [11784]
+2023-07-15 15:46:24,593 - Waiting for application startup.
+2023-07-15 15:46:24,610 - Application startup complete.
+2023-07-15 15:49:53,802 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-15 15:49:53,804 - Uvicorn running on http://127.0.0.1:22 (Press CTRL+C to quit)
+2023-07-15 15:49:53,805 - Started reloader process [14732] using statreload
+2023-07-15 15:49:54,757 - Started server process [15764]
+2023-07-15 15:49:54,758 - Waiting for application startup.
+2023-07-15 15:49:54,758 - Application startup complete.
+2023-07-15 15:51:49,992 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-15 15:51:51,110 - Started server process [6736]
+2023-07-15 15:51:51,112 - Waiting for application startup.
+2023-07-15 15:51:51,115 - Application startup complete.
+2023-07-15 15:56:15,333 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-15 15:56:16,486 - Started server process [5372]
+2023-07-15 15:56:16,488 - Waiting for application startup.
+2023-07-15 15:56:16,490 - Application startup complete.
+2023-07-15 15:56:53,803 - Shutting down
+2023-07-15 15:56:53,904 - Waiting for application shutdown.
+2023-07-15 15:56:53,904 - Application shutdown complete.
+2023-07-15 15:56:53,905 - Finished server process [5372]
+2023-07-15 15:56:54,392 - Stopping reloader process [14732]
+2023-07-15 15:58:12,933 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-15 15:58:12,936 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-15 15:58:12,937 - Started reloader process [8264] using statreload
+2023-07-15 15:58:13,924 - Started server process [3856]
+2023-07-15 15:58:13,925 - Waiting for application startup.
+2023-07-15 15:58:13,927 - Application startup complete.
+2023-07-15 15:58:21,578 - Address(host='127.0.0.1', port=59933) -  method: GET - path: / - status_code: 404 - process_time: 0.0010020732879638672
+2023-07-15 15:58:21,796 - Address(host='127.0.0.1', port=59933) -  method: GET - path: /favicon.ico - status_code: 404 - process_time: 0.0009970664978027344
+2023-07-15 16:04:12,573 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-15 16:04:13,783 - Started server process [11988]
+2023-07-15 16:04:13,787 - Waiting for application startup.
+2023-07-15 16:04:13,788 - Application startup complete.
+2023-07-15 16:04:18,511 - Shutting down
+2023-07-15 16:04:18,613 - Waiting for application shutdown.
+2023-07-15 16:04:18,613 - Application shutdown complete.
+2023-07-15 16:04:18,614 - Finished server process [11988]
+2023-07-15 16:04:19,152 - Stopping reloader process [8264]
+2023-07-15 16:24:34,414 - Started server process [11040]
+2023-07-15 16:24:34,415 - Waiting for application startup.
+2023-07-15 16:24:34,416 - Application startup complete.
+2023-07-15 16:25:27,528 - Started server process [1148]
+2023-07-15 16:25:27,529 - Waiting for application startup.
+2023-07-15 16:25:27,530 - Application startup complete.
+2023-07-15 16:26:08,567 - Started server process [8344]
+2023-07-15 16:26:08,569 - Waiting for application startup.
+2023-07-15 16:26:08,570 - Application startup complete.
+2023-07-15 16:40:58,958 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-15 16:40:58,960 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-15 16:40:58,961 - Started reloader process [4688] using statreload
+2023-07-15 16:41:00,091 - Started server process [15996]
+2023-07-15 16:41:00,092 - Waiting for application startup.
+2023-07-15 16:41:00,093 - Application startup complete.
+2023-07-15 16:41:26,226 - Address(host='127.0.0.1', port=60265) -  method: GET - path: / - status_code: 404 - process_time: 0.0009932518005371094
+2023-07-15 16:41:26,690 - Address(host='127.0.0.1', port=60265) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-15 16:41:30,929 - Address(host='127.0.0.1', port=60265) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-15 16:41:31,246 - Address(host='127.0.0.1', port=60265) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.013000011444091797
+2023-07-15 16:46:07,632 - Started server process [4924]
+2023-07-15 16:46:07,633 - Waiting for application startup.
+2023-07-15 16:46:07,634 - Application startup complete.
+2023-07-15 18:21:04,957 - Started server process [9464]
+2023-07-15 18:21:04,958 - Waiting for application startup.
+2023-07-15 18:21:04,962 - Application startup complete.
+2023-07-15 18:21:28,501 - Started server process [4492]
+2023-07-15 18:21:28,502 - Waiting for application startup.
+2023-07-15 18:21:28,504 - Application startup complete.
+2023-07-15 18:22:03,815 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-15 18:22:03,822 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-15 18:22:03,824 - Started reloader process [11356] using statreload
+2023-07-15 18:22:05,261 - Started server process [9536]
+2023-07-15 18:22:05,263 - Waiting for application startup.
+2023-07-15 18:22:05,264 - Application startup complete.
+2023-07-15 18:22:47,597 - Address(host='127.0.0.1', port=61013) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-15 18:22:48,294 - Address(host='127.0.0.1', port=61013) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-15 18:22:50,804 - Address(host='127.0.0.1', port=61018) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-15 18:22:51,196 - Address(host='127.0.0.1', port=61018) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.018003225326538086
+2023-07-15 18:23:53,465 - Address(host='127.0.0.1', port=61023) -  method: POST - path: /users - status_code: 200 - process_time: 0.19500041007995605
+2023-07-15 18:34:59,176 - Address(host='127.0.0.1', port=61098) -  method: GET - path: /users - status_code: 200 - process_time: 0.003995180130004883
+2023-07-16 00:30:08,041 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-16 00:30:08,043 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-16 00:30:08,043 - Started reloader process [8080] using statreload
+2023-07-16 00:30:09,367 - Started server process [15872]
+2023-07-16 00:30:09,368 - Waiting for application startup.
+2023-07-16 00:30:09,370 - Application startup complete.
+2023-07-16 00:30:14,664 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-16 00:30:16,081 - Started server process [13020]
+2023-07-16 00:30:16,086 - Waiting for application startup.
+2023-07-16 00:30:16,088 - Application startup complete.
+2023-07-16 00:30:31,167 - Address(host='127.0.0.1', port=50846) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-16 00:30:31,582 - Address(host='127.0.0.1', port=50846) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-16 00:30:31,847 - Address(host='127.0.0.1', port=50846) -  method: GET - path: /favicon.ico - status_code: 404 - process_time: 0.0
+2023-07-16 00:30:36,697 - Address(host='127.0.0.1', port=50846) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0009970664978027344
+2023-07-16 00:30:37,056 - Address(host='127.0.0.1', port=50846) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.0169985294342041
+2023-07-16 00:30:38,070 - Address(host='127.0.0.1', port=50846) -  method: GET - path: /dóc - status_code: 404 - process_time: 0.0009987354278564453
+2023-07-16 00:30:44,261 - Address(host='127.0.0.1', port=50855) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0010013580322265625
+2023-07-16 00:30:44,615 - Address(host='127.0.0.1', port=50855) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.0009989738464355469
+2023-07-16 00:31:28,103 - StatReload detected file change in 'main.py'. Reloading...
+2023-07-16 00:31:29,592 - Started server process [6352]
+2023-07-16 00:31:29,593 - Waiting for application startup.
+2023-07-16 00:31:29,594 - Application startup complete.
+2023-07-16 00:32:29,162 - Shutting down
+2023-07-16 00:32:29,269 - Waiting for application shutdown.
+2023-07-16 00:32:29,270 - Application shutdown complete.
+2023-07-16 00:32:29,270 - Finished server process [6352]
+2023-07-16 00:32:29,318 - Stopping reloader process [8080]
+2023-07-16 00:32:35,529 - Started server process [6912]
+2023-07-16 00:32:35,530 - Waiting for application startup.
+2023-07-16 00:32:35,531 - Application startup complete.
+2023-07-16 00:33:38,472 - Started server process [1320]
+2023-07-16 00:33:38,473 - Waiting for application startup.
+2023-07-16 00:33:38,475 - Application startup complete.
+2023-07-16 01:00:10,903 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-16 01:00:10,906 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-16 01:00:10,907 - Started reloader process [13012] using statreload
+2023-07-16 01:00:12,146 - Started server process [10128]
+2023-07-16 01:00:12,148 - Waiting for application startup.
+2023-07-16 01:00:12,149 - Application startup complete.
+2023-07-16 01:01:06,840 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-16 01:01:06,843 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-16 01:01:06,843 - Started reloader process [14316] using statreload
+2023-07-16 01:01:07,880 - Started server process [6772]
+2023-07-16 01:01:07,881 - Waiting for application startup.
+2023-07-16 01:01:07,882 - Application startup complete.
+2023-07-16 01:01:14,019 - Shutting down
+2023-07-16 01:01:14,095 - Stopping reloader process [14316]
+2023-07-16 01:01:20,526 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-16 01:01:20,528 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-16 01:01:20,529 - Started reloader process [5268] using statreload
+2023-07-16 01:01:21,930 - Started server process [6968]
+2023-07-16 01:01:21,931 - Waiting for application startup.
+2023-07-16 01:01:21,932 - Application startup complete.
+2023-07-16 01:01:30,482 - Address(host='127.0.0.1', port=51608) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-16 01:01:30,848 - Address(host='127.0.0.1', port=51608) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.01999974250793457
+2023-07-22 11:49:33,443 - Will watch for changes in these directories: ['C:\\Project\\Socket_Demo\\server-mongo\\fastapiserver']
+2023-07-22 11:49:33,445 - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2023-07-22 11:49:33,447 - Started reloader process [8368] using statreload
+2023-07-22 11:49:34,871 - Started server process [13484]
+2023-07-22 11:49:34,872 - Waiting for application startup.
+2023-07-22 11:49:34,873 - Application startup complete.
+2023-07-22 11:50:19,458 - Address(host='127.0.0.1', port=63861) -  method: GET - path: / - status_code: 404 - process_time: 0.0010006427764892578
+2023-07-22 11:50:20,789 - Address(host='127.0.0.1', port=63861) -  method: GET - path: / - status_code: 404 - process_time: 0.0
+2023-07-22 11:50:20,958 - Address(host='127.0.0.1', port=63861) -  method: GET - path: /favicon.ico - status_code: 404 - process_time: 0.0
+2023-07-22 11:50:24,095 - Address(host='127.0.0.1', port=63861) -  method: GET - path: /docs - status_code: 200 - process_time: 0.0
+2023-07-22 11:50:24,712 - Address(host='127.0.0.1', port=63861) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.013002872467041016
+2023-07-22 11:53:07,608 - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 375, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc from None
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\middleware\base.py", line 25, in __call__
+    response = await self.dispatch_func(request, self.call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\main.py", line 22, in loggingInfo
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\middleware\base.py", line 45, in call_next
+    task.result()
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\middleware\base.py", line 38, in coro
+    await self.app(scope, receive, send)
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc from None
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\routing.py", line 580, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\routing.py", line 241, in handle
+    await self.app(scope, receive, send)
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\starlette\routing.py", line 52, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\fastapi\routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\env\Lib\site-packages\fastapi\routing.py", line 159, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\routes\users.py", line 60, in push_user
+    if not checkSequense(new_messages, event):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Project\Socket_Demo\server-mongo\fastapiserver\controllers\users.py", line 30, in checkSequense
+    last_sequense = sorted_messages[-1]["s"]
+                    ~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+2023-07-22 11:56:44,035 - StatReload detected file change in 'routes\users.py'. Reloading...
+2023-07-22 11:56:45,228 - Started server process [8912]
+2023-07-22 11:56:45,229 - Waiting for application startup.
+2023-07-22 11:56:45,231 - Application startup complete.
+2023-07-22 11:56:53,469 - StatReload detected file change in 'routes\users.py'. Reloading...
+2023-07-22 11:56:54,643 - Started server process [9436]
+2023-07-22 11:56:54,644 - Waiting for application startup.
+2023-07-22 11:56:54,645 - Application startup complete.
+2023-07-22 11:56:55,632 - StatReload detected file change in 'routes\users.py'. Reloading...
+2023-07-22 11:56:57,050 - Started server process [1576]
+2023-07-22 11:56:57,051 - Waiting for application startup.
+2023-07-22 11:56:57,052 - Application startup complete.
+2023-07-22 11:56:58,433 - StatReload detected file change in 'controllers\users.py'. Reloading...
+2023-07-22 11:57:00,018 - Started server process [15848]
+2023-07-22 11:57:00,020 - Waiting for application startup.
+2023-07-22 11:57:00,021 - Application startup complete.
+2023-07-22 11:57:36,670 - Address(host='127.0.0.1', port=63996) -  method: POST - path: /users - status_code: 200 - process_time: 0.013000011444091797
+2023-07-22 12:00:12,699 - Address(host='127.0.0.1', port=64016) -  method: POST - path: /users - status_code: 200 - process_time: 0.01900029182434082
+2023-07-22 12:03:27,108 - Address(host='127.0.0.1', port=64044) -  method: POST - path: /users - status_code: 200 - process_time: 0.01300811767578125
+2023-07-22 22:23:11,770 - Address(host='127.0.0.1', port=55159) -  method: GET - path: /openapi.json - status_code: 200 - process_time: 0.023996591567993164
